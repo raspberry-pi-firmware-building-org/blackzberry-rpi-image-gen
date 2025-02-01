@@ -1,0 +1,11 @@
+IMG_NAME="BlackZOS-RPI-5-bookworm"
+DEPLOY_COMPRESSION="xz"
+ENABLE_SSH="1"
+FIRST_USER_NAME="blackbyte"
+FIRST_USER_PASS="x3pc092201"
+KEYBOARD_KEYMAP="de"
+TIMEZONE_DEFAULT="Europe/Berlin"
+STAGE_LIST="stage0 stage1 stage2 stage6 stage5"
+RELEASE="bookworm"
+TARGET_HOSTNAME="blackzberry"
+export PI_GEN_DEBUG=1
